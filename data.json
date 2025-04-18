@@ -1,0 +1,14 @@
+[
+  {
+    "title": "أول تحديث",
+    "content": "هذا مثال للمحتوى...",
+    "image": "",
+    "date": "2024-01-01"
+  },
+  {
+    "title": "تحديث ثانٍ",
+    "content": "مثال آخر...",
+    "image": "https://example.com/image.jpg",
+    "date": "2024-01-02"
+  }
+]
